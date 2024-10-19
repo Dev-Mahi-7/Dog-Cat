@@ -1,0 +1,15 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.logo{
+    border-radius: 50%;
+}
+.navbar-nav .nav-item{
+    background-color: orange;
+    margin: 0px 0px;
+    padding: 0px 7px;
+}
+.navbar-nav .nav-item:hover{
+    background-color: #e963bd;
+    font-weight: bolder;
+}
